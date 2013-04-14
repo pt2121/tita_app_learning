@@ -1,0 +1,32 @@
+Logfile initialized
+[INFO] logfile = /Users/aetherpal/Documents/Titanium_Workspace/Test3/build.log
+[DEBUG] /Users/aetherpal/Library/Application Support/Titanium/mobilesdk/osx/3.0.2.GA/android/builder.py simulator Test3 /Users/aetherpal/android-sdks /Users/aetherpal/Documents/Titanium_Workspace/Test3 com.pt2121.test3 20 HVGA 
+[INFO] Building Test3 for Android ... one moment
+[INFO] Titanium SDK version: 3.0.2 (02/15/13 19:02 5a77fe7)
+[DEBUG] Waiting for device to be ready ...
+[TRACE] adb devices returned 1 devices/emulators
+[DEBUG] Device connected... (waited 0 seconds)
+[DEBUG] waited 0.024890 seconds on emulator to get ready
+[DEBUG] com.pt2121.test3 installed? True
+[INFO] Fastdev server running, deploying in Fastdev mode
+[INFO] Copying CommonJS modules...
+[INFO] Copying project resources..
+[INFO] Tiapp.xml unchanged, skipping class generation
+[DEBUG] Processing Android resource drawables
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/aetherpal/Documents/Titanium_Workspace/Test3/Resources/android/images/res-notlong-port-mdpi/default.png
+[INFO] Re-launching application ... Test3
+[INFO] Launching application ... Test3
+[TRACE] Launch output: Starting: Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10200000 cmp=com.pt2121.test3/.Test3Activity }
+Warning: Activity not started, its current task has been brought to the front
+
+[DEBUG] signal caught: 15
+[DEBUG] calling emulator kill on 40150
